@@ -29,8 +29,8 @@ public final class R {
     public static final class id {
         public static final int action_settings=0x7f080011;
         public static final int amauntDisplayTextView=0x7f080003;
-        public static final int amauntTextView=0x7f080001;
         public static final int amountEditText=0x7f080002;
+        public static final int amountTextView=0x7f080001;
         public static final int customPercentTextView=0x7f080004;
         public static final int customSeekBar=0x7f080005;
         public static final int gridLayout=0x7f080000;
