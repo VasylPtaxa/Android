@@ -13,7 +13,7 @@
     tools:context="com.vp.tipcalculatormy.MainActivity" >
 
     <TextView
-        android:id="@+id/amountTextView"
+        android:id="@+id/amauntTextView"
         android:layout_gravity="right"
         android:labelFor="@+id/amountEditText"
         android:text="@string/amount"
@@ -26,6 +26,7 @@
         android:digits="0123456789"
         android:inputType="number"
         android:maxLength="6" >
+
         <requestFocus />
     </EditText>
 
